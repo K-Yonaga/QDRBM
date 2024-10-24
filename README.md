@@ -12,4 +12,4 @@ This is a free software under MIT License.
 
 ## Requirement 
 
-$\cdot$ Python 2.13.1
+$\cdot$ Tensorflow 2.13.1

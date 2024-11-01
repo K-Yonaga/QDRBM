@@ -40,7 +40,7 @@ class DRBM(tf.keras.Sequential):
             layers=None, 
             name=None,
             num_classes=None,
-            weight_hidden=1.0):
+            weight_hidden=10.0):
         super().__init__(layers=layers, name=name)
         self._num_classes = num_classes
         self._weight_hidden = weight_hidden

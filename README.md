@@ -1,6 +1,6 @@
 # QDRBM
 
-Quantum Discriminative Restricted Boltzmann Machine (QDRBM)
+Quantum Discriminative Restricted Boltzmann Machine (QDRBM) is a statistical learning model for pattern recognition. QDRBM has three-layer architecture including a input, hidden, and output layer. In addition, we employ transvers field Ising model in the hidden layer of QDRBM. 
 
 The detail algorithm is presented in the below article.
 
